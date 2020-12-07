@@ -1,11 +1,11 @@
 ---
 name: 'La Serena cheese'
 title:  The best cream cheese
-year: 23 Enero 2019
+year: 07 Diciembre 2020
 color: '#edece7'
 isTextColorDark: true
-trans: 'queso'
-id: 'queso'
+trans: 'quesoespiga'
+id: 'quesoespiga'
 imagesMain: images/queso/main.png
 imagesThumbnail: images/queso/thumbnail.png
 link: https://latiendaconruedas.com/shop/product/q00030-torta-de-la-serena-34/?acod=PromoJam

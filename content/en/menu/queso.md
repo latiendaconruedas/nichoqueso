@@ -1,7 +1,7 @@
 ---
 name: 'La Serena cheese'
 title:  Parada Real cheese
-year: 23 Diciembre 2020
+year: 07 Diciembre 2020
 trans: 'queso'
 id: 'queso'
 imagesMain: images/queso/main.png

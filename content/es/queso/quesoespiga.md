@@ -1,11 +1,11 @@
 ---
 name: 'Queso Cremoso'
 title: El mejor queso cremos
-year: 23 Enero 2019
+year: 07 Diciembre 2020
 color: '#edece7'
 isTextColorDark: true
-trans: 'queso'
-id: 'queso'
+trans: 'quesoespiga'
+id: 'quesoespiga'
 imagesMain: images/queso/main.png
 imagesThumbnail: images/queso/thumbnail.png
 youtuve: 'iBrTDD7iu1U'

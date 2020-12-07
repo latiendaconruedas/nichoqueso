@@ -1,7 +1,7 @@
 ---
 name: 'Queso de la serena'
 title: Queso Parada real
-year: 23 Enero 2020
+year: 07 Diciembre 2020
 trans: 'queso'
 id: 'queso'
 imagesMain: images/queso/main.png
