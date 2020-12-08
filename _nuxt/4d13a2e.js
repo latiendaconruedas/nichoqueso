@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{160:function(e,n,o){"use strict";o.r(n),n.default={title:"Jamón - El mejor iberico",description:"El mejor jamón del mundo."}}}]);

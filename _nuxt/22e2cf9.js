@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{159:function(e,n,t){"use strict";t.r(n),n.default={credits:'Nuestros productos <a target="_blank" href="https://latiendaconruedas.com" class="ani"><span>@gurudelqueso</span></a>.'}}}]);

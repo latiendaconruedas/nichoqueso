@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{158:function(e,t,n){"use strict";n.r(t),t.default={title:"Hams - The Best Hams",description:"The Best"}}}]);
